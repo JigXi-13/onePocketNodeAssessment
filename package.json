@@ -1,0 +1,23 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "contains solution for onepocket",
+  "main": "yes",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JigXi-13/onePocketNodeAssessment.git"
+  },
+  "keywords": [
+    "node",
+    "assessment"
+  ],
+  "author": "jigish",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JigXi-13/onePocketNodeAssessment/issues"
+  },
+  "homepage": "https://github.com/JigXi-13/onePocketNodeAssessment#readme"
+}
